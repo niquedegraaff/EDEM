@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ede",
+				"ede-m"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/modules/main/classes/controller/main.php",
+			"settings":
+			{
+				"buffer_size": 349,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/classes/controller/frontend.php",
+			"settings":
+			{
+				"buffer_size": 833,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/routes.php",
+			"settings":
+			{
+				"buffer_size": 170,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/themes/default/layouts/default.php",
+			"settings":
+			{
+				"buffer_size": 675,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/modules/main/views/main/index.php",
+			"settings":
+			{
+				"buffer_size": 17,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/themes/default/modules/main/index.php",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/modules/main/main/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/config/theme.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/views/main/index2.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/views/main/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/config/config.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/modules/main/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/bootstrap.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/themes/default/css/bootstrap.css",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/themes/default/js/jquery.js",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/themes/default/js/bootstrap.js",
+		"/C/Users/Nique/Projects/PHP/EDEM/system/core/bootstrap.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/logs/2013/02/12.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/test/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/theme.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/config/website.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/classes/controller/backend/main.php",
+		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/PHP/PHP.tmLanguage",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/config/routes.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/classes/controller/backend/main/settings.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/views/main/404.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/views/main",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/layouts/default.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/partials/messages.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/partials/footer.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/partials/header.php",
+		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/HTML/HTML.tmLanguage",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/frontend.php",
+		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/PHP/PHP.tmLanguage.backup",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/classes/controller/main.php",
+		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/backend/layouts/default.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/backend/main.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/backend/auth.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/frontend/main/404.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/frontend/template.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/frontend/main.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/frontend/auth.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/frontend/main/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/backend.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/frontend/_global/header.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/frontend/default.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/frontend/_global/footer.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/templates/404.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/.htaccess",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/backend.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/templates/header.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/templates/footer.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/templates/layout.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend/_global/header.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend/_global/footer.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend/_global",
+		"/C/wamp/bin/apache/apache2.2.22/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Nique/Projects/PHP/EDEM/system/core/config/config.php",
+		"/C/wamp/bin/apache/apache2.2.22/conf/httpd.conf",
+		"/C/Users/Nique/Projects/PHP/EDEM/oil",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/welcome/hello.php",
+		"/C/wamp/bin/php/php5.3.13/php.ini",
+		"/C/wamp/wampmanager.ini",
+		"/C/wamp/logs/apache_error.log",
+		"/C/wamp/logs/log_dir",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/assets/js/ui.js",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/Bootstrap/less/variables.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/V2.0/variables.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/error.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/error/404.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/system/core/classes/controller/rest.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/ui.less",
+		"/C/Users/Nique/AppData/Roaming/Eclipse/eclipse.ini",
+		"/C/wamp/bin/apache/apache2.2.22/wampserver.conf",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/Bootstrap/less/component-animations.less",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Nique/AppData/Local/Microsoft/Windows/WER/ReportArchive/AppCrash_Photoshop.exe_f841ec44c7531924ad7981f67efc934edc6f6d69_122f08d6/Report.wer",
+		"/C/Users/Nique/Downloads/Nieuwsgroepen/Complete/_UNPACK_Adobe Photoshop CS6 (1)/hosts",
+		"/C/Users/Nique/Programmas/Eclipse/plugins/com.android.ide.eclipse.adt.package_21.0.0.v201210310015-519525/plugin.xml",
+		"/C/Users/Nique/Downloads/Nieuwsgroepen/Complete/_FAILED_Stand.Up.Guys.2012.DVDSCR.XviD-MATiNE/Stand Up Guys 2012 MATiNE.nfo",
+		"/C/Program Files/Adobe/Adobe Illustrator CS6 (64 Bit)/Support Files/Contents/Windows/nl_NL/Illustrator.ztx",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/Bootstrap/less/sprites.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/error.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/Bootstrap/less/buttons.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/assets/js/bootstrap.min.js",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/assets/js/jquery.min.js",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/Bootstrap/less/bootstrap.less",
+		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.216/bootstrap-master/less/tests/css-tests.html",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/view/error/404.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/template.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend/bootstrap.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend/404.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/views/test/bootstrap.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/front.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/test.php",
+		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.363/bootstrap-master/less/tests/forms.html",
+		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.131/bootstrap-master/less/tests/buttons.html",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/V2.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/assets/css/bootstrap.min.css",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/v2.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/mixins.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/v1.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/reset.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/variables.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/welcome.php",
+		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/view/test/bootstrap.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/bootstrap/variables.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/bootstrap/mixins.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/bootstrap/type.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/bootstrap/bootstrap.less",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/vendor/less/bootstrap/buttons.less",
+		"/C/wamp/alias/edem.conf",
+		"/C/wamp/wampmanager.conf",
+		"/C/wamp/alias/phpmyadmin.conf",
+		"/C/Users/Nique/Projects/PHP/EDEM/system/packages/fuel-less/bootstrap.php",
+		"/C/cygwin/etc/setup/installed.db",
+		"/C/Users/Nique/Pictures/Towncraft/Gui/Simcity/out/simcity.pack",
+		"/C/Users/Nique/Desktop/test-me!/output/test-me!.pack",
+		"/C/Users/Nique/Workspace/Towncraft/bin/com/qs/towncraft/Game.class",
+		"/C/Users/Nique/Downloads/Nieuwsgroepen/Complete/air-sod1.par2/airiso.nfo",
+		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.381/commands/InactiveCommand.java",
+		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.029/commands/Command.java",
+		"/C/Users/Nique/Downloads/Nieuwsgroepen/Complete/Ableton Suite v8.2.5-AUDiOL3GiON/Crack/AUDiOL3GiON.nfo",
+		"/C/Users/Nique/Downloads/HDRIP.XVID.BAK.MCO.2012.SRT.20122012.nzb",
+		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.218/commands/BasicCommandHandler.java",
+		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.836/commands/CommandHandler.java",
+		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.946/commands/BasicCommandHandler.java",
+		"/C/Users/Nique/Workspace/Towncraft-desktop/.project",
+		"/C/Users/Nique/Downloads/Context.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"development",
+			"extends",
+			"<string>\\B",
+			"<string>?",
+			"<string>",
+			"<string>(?i)\\b(real",
+			"dict",
+			"error_log",
+			"amptlib",
+			"password",
+			"background",
+			"vhost"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/modules/main/classes/controller/main.php",
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/classes/controller/frontend.php",
+					"settings":
+					{
+						"buffer_size": 833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/config/routes.php",
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/themes/default/layouts/default.php",
+					"settings":
+					{
+						"buffer_size": 675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								675,
+								675
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/modules/main/views/main/index.php",
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/themes/default/modules/main/index.php",
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
