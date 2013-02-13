@@ -10,3 +10,4 @@ ERROR - 2013-02-13 15:22:30 --> Error - The requested view could not be found: m
 ERROR - 2013-02-13 15:27:29 --> Error - The requested view could not be found: main/main/index in C:\Users\Nique\Projects\PHP\EDEM\system\core\classes\view.php on line 388
 ERROR - 2013-02-13 20:29:34 --> Error - The requested view could not be found: main/main/index in C:\Users\Nique\Projects\PHP\EDEM\system\core\classes\view.php on line 388
 ERROR - 2013-02-13 20:29:46 --> Error - The requested view could not be found: main/main/index in C:\Users\Nique\Projects\PHP\EDEM\system\core\classes\view.php on line 388
+ERROR - 2013-02-13 20:42:40 --> Error - The requested view could not be found: modules/main/index in C:\Users\Nique\Projects\PHP\EDEM\system\core\classes\view.php on line 388

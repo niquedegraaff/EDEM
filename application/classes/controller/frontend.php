@@ -7,10 +7,10 @@ class Controller_Frontend extends Controller
 
 		// Load the theme and set template
 		$this->theme = \Theme::instance();
-		$this->theme->set_template('layouts/default');
-		$this->theme->set_partial('header', 'partials/header');
-		$this->theme->set_partial('footer', 'partials/footer');
-		$this->theme->set_partial('messages', 'partials/messages');
+		$this->theme->set_template('_layouts/default');
+		$this->theme->set_partial('header', '_partials/header');
+		$this->theme->set_partial('footer', '_partials/footer');
+		$this->theme->set_partial('messages', '_partials/messages');
 		$this->theme->get_template()->set('title', ucwords(implode(" - ", \Uri::segments())));
 		$this->current_user = "Guest";
 
