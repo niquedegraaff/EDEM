@@ -1,0 +1,1 @@
+<p>FRONTEND::Main::index from theme!</p>

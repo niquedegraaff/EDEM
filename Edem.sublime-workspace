@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"HTTP",
+				"HTTP_HOST"
+			],
+			[
 				"font",
 				"font-family"
 			],
@@ -24,10 +28,26 @@
 	"buffers":
 	[
 		{
-			"file": "application/modules/main/classes/controller/main.php",
+			"file": "application/config/routes.php",
 			"settings":
 			{
-				"buffer_size": 349,
+				"buffer_size": 294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/modules/main/classes/controller/frontend.php",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/modules/main/classes/controller/backend.php",
+			"settings":
+			{
+				"buffer_size": 229,
 				"line_ending": "Windows"
 			}
 		},
@@ -35,39 +55,55 @@
 			"file": "application/classes/controller/frontend.php",
 			"settings":
 			{
-				"buffer_size": 833,
+				"buffer_size": 839,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "application/config/routes.php",
+			"file": "application/classes/controller/backend.php",
 			"settings":
 			{
-				"buffer_size": 170,
+				"buffer_size": 873,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/theme.php",
+			"settings":
+			{
+				"buffer_size": 1522,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "application/themes/default/layouts/default.php",
+			"file": "web/.htaccess",
 			"settings":
 			{
-				"buffer_size": 675,
+				"buffer_size": 1650,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web/index.php",
+			"settings":
+			{
+				"buffer_size": 2007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/themes/backend/main/backend/index.php",
+			"settings":
+			{
+				"buffer_size": 39,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "application/modules/main/views/main/index.php",
+			"file": "application/themes/frontend/main/frontend/index.php",
 			"settings":
 			{
-				"buffer_size": 17,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "application/themes/default/modules/main/index.php",
-			"settings":
-			{
-				"buffer_size": 30,
+				"buffer_size": 40,
 				"line_ending": "Windows"
 			}
 		}
@@ -83,11 +119,11 @@
 				"Package Control: Install Package"
 			],
 			[
-				"install",
+				"Package Control: install",
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: install",
+				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -99,7 +135,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 528.0
+		"width": 536.0
 	},
 	"console":
 	{
@@ -116,12 +152,31 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/modules/main/main/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/frontend/classes/controller/frontend.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/frontend.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/backend.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/web/.htaccess",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/frontend/bootstrap.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/frontend.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/base.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/frontend/classes/controller/page.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/frontend/classes/controller/backend/main.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/config/theme.php",
-		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/views/main/index2.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/classes/controller/backend/main.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/classes/controller/frontend.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/classes/controller/main.php",
+		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Nique/Projects/PHP/EDEM/system/core/classes/theme.php",
+		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/backend/_layouts/default.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/modules/main/main/index.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/views/main/index.php",
-		"/C/Users/Nique/Projects/PHP/EDEM/application/config/config.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/layouts/default.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/config/routes.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/modules/main/index.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/views/main/index2.php",
+		"/C/Users/Nique/Projects/PHP/EDEM/application/config/config.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/bootstrap.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/web/themes/default/css/bootstrap.css",
 		"/C/Users/Nique/Projects/PHP/EDEM/web/themes/default/js/jquery.js",
@@ -131,20 +186,15 @@
 		"/C/Users/Nique/Projects/PHP/EDEM/application/views/test/index.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/theme.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/config/website.php",
-		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/classes/controller/backend/main.php",
 		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/PHP/PHP.tmLanguage",
-		"/C/Users/Nique/Projects/PHP/EDEM/application/config/routes.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/classes/controller/backend/main/settings.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/views/main/404.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/views/main",
-		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/layouts/default.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/partials/messages.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/partials/footer.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/default/partials/header.php",
 		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/HTML/HTML.tmLanguage",
-		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/frontend.php",
 		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/PHP/PHP.tmLanguage.backup",
-		"/C/Users/Nique/Projects/PHP/EDEM/application/modules/main/classes/controller/main.php",
 		"/C/Users/Nique/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/backend/layouts/default.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/classes/controller/backend/main.php",
@@ -159,14 +209,11 @@
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/frontend/default.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/frontend/_global/footer.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/templates/404.php",
-		"/C/Users/Nique/Projects/PHP/EDEM/web/.htaccess",
-		"/C/Users/Nique/Projects/PHP/EDEM/web/backend.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/templates/header.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/templates/footer.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/themes/v1/templates/layout.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend/_global/header.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend/_global/footer.php",
-		"/C/Users/Nique/Projects/PHP/EDEM/web/index.php",
 		"/C/Users/Nique/Projects/PHP/EDEM/application/views/frontend/_global",
 		"/C/wamp/bin/apache/apache2.2.22/conf/extra/httpd-vhosts.conf",
 		"/C/Users/Nique/Projects/PHP/EDEM/system/core/config/config.php",
@@ -232,18 +279,7 @@
 		"/C/Users/Nique/Projects/PHP/EDEM/system/packages/fuel-less/bootstrap.php",
 		"/C/cygwin/etc/setup/installed.db",
 		"/C/Users/Nique/Pictures/Towncraft/Gui/Simcity/out/simcity.pack",
-		"/C/Users/Nique/Desktop/test-me!/output/test-me!.pack",
-		"/C/Users/Nique/Workspace/Towncraft/bin/com/qs/towncraft/Game.class",
-		"/C/Users/Nique/Downloads/Nieuwsgroepen/Complete/air-sod1.par2/airiso.nfo",
-		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.381/commands/InactiveCommand.java",
-		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.029/commands/Command.java",
-		"/C/Users/Nique/Downloads/Nieuwsgroepen/Complete/Ableton Suite v8.2.5-AUDiOL3GiON/Crack/AUDiOL3GiON.nfo",
-		"/C/Users/Nique/Downloads/HDRIP.XVID.BAK.MCO.2012.SRT.20122012.nzb",
-		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.218/commands/BasicCommandHandler.java",
-		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.836/commands/CommandHandler.java",
-		"/C/Users/Nique/AppData/Local/Temp/Rar$DRa0.946/commands/BasicCommandHandler.java",
-		"/C/Users/Nique/Workspace/Towncraft-desktop/.project",
-		"/C/Users/Nique/Downloads/Context.java"
+		"/C/Users/Nique/Desktop/test-me!/output/test-me!.pack"
 	],
 	"find":
 	{
@@ -261,6 +297,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"theme",
+			"find_file",
 			"development",
 			"extends",
 			"<string>\\B",
@@ -295,24 +333,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": "application/modules/main/classes/controller/main.php",
+					"file": "application/config/routes.php",
 					"settings":
 					{
-						"buffer_size": 349,
+						"buffer_size": 294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								349,
-								349
+								248,
+								248
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -322,24 +359,23 @@
 				},
 				{
 					"buffer": 1,
-					"file": "application/classes/controller/frontend.php",
+					"file": "application/modules/main/classes/controller/frontend.php",
 					"settings":
 					{
-						"buffer_size": 833,
+						"buffer_size": 232,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								625,
-								625
+								232,
+								232
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -349,18 +385,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "application/config/routes.php",
+					"file": "application/modules/main/classes/controller/backend.php",
 					"settings":
 					{
-						"buffer_size": 170,
+						"buffer_size": 229,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								87,
-								91
+								79,
+								79
 							]
 						],
 						"settings":
@@ -375,18 +411,18 @@
 				},
 				{
 					"buffer": 3,
-					"file": "application/themes/default/layouts/default.php",
+					"file": "application/classes/controller/frontend.php",
 					"settings":
 					{
-						"buffer_size": 675,
+						"buffer_size": 839,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								675,
-								675
+								628,
+								628
 							]
 						],
 						"settings":
@@ -402,10 +438,64 @@
 				},
 				{
 					"buffer": 4,
-					"file": "application/modules/main/views/main/index.php",
+					"file": "application/classes/controller/backend.php",
 					"settings":
 					{
-						"buffer_size": 17,
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/config/theme.php",
+					"settings":
+					{
+						"buffer_size": 1522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								877,
+								877
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "web/.htaccess",
+					"settings":
+					{
+						"buffer_size": 1650,
 						"regions":
 						{
 						},
@@ -414,6 +504,60 @@
 							[
 								0,
 								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ApacheConf.tmLanguage/ApacheConf.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "web/index.php",
+					"settings":
+					{
+						"buffer_size": 2007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/themes/backend/main/backend/index.php",
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
 							]
 						],
 						"settings":
@@ -427,19 +571,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "application/themes/default/modules/main/index.php",
+					"buffer": 9,
+					"file": "application/themes/frontend/main/frontend/index.php",
 					"settings":
 					{
-						"buffer_size": 30,
+						"buffer_size": 40,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								30,
-								30
+								40,
+								40
 							]
 						],
 						"settings":

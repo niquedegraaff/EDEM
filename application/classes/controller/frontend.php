@@ -1,6 +1,6 @@
 <?php 
-class Controller_Frontend extends Controller
-{
+class Controller_Frontend extends \Controller
+{	
 	public function before() 
 	{
 		parent::before();

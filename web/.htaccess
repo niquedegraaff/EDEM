@@ -20,17 +20,17 @@
 	#RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
 	# Option 2: To rewrite "domain.com -> www.domain.com" uncomment the following lines.
-	#RewriteCond %{HTTPS} !=on
-	#RewriteCond %{HTTP_HOST} !^www\..+$ [NC]
-	#RewriteCond %{HTTP_HOST} (.+)$ [NC]
-	#RewriteRule ^(.*)$ http://www.%1/$1 [R=301,L]
+	# RewriteCond %{HTTPS} !=on
+	# RewriteCond %{HTTP_HOST} !^www\..+$ [NC]
+	# RewriteCond %{HTTP_HOST} (.+)$ [NC]
+	# RewriteRule ^(.*)$ http://www.%1/$1 [R=301,L]
 
 	# Remove index.php from URL
-	#RewriteCond %{HTTP:X-Requested-With}	!^XMLHttpRequest$
-	#RewriteCond %{THE_REQUEST}				^[^/]*/index\.php [NC]
-	#RewriteRule ^index\.php(.*)$			$1 [R=301,NS,L]
+	# RewriteCond %{HTTP:X-Requested-With}	!^XMLHttpRequest$
+	# RewriteCond %{THE_REQUEST}				^[^/]*/index\.php [NC]
+	# RewriteRule ^index\.php(.*)$			$1 [R=301,NS,L]
 
-	# Send request via index.php (again, not if its a real file or folder)
+	# Send request via index.php or backend.php (again, not if its a real file or folder)
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteCond %{REQUEST_FILENAME} !-d
 

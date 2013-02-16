@@ -23,13 +23,13 @@ return array(
 	/**
 	 * The active theme to use.  This can also be set in code using Theme::active('foo');
 	 */
-	'active' => 'default',
+	'active' => 'frontend',
 
 	/**
 	 * The fallback theme to use.  If a view is not found in the active theme, this theme
 	 * is used as a fallback.  This can also be set in code using Theme::fallback('foo');
 	 */
-	'fallback' => 'default',
+	'fallback' => 'frontend',
 
 	/**
 	 * The theme search paths.  They are searched in the order given.  You can add paths
@@ -44,6 +44,8 @@ return array(
 	 * theme's path.
 	 */
 	'assets_folder' => 'assets',
+
+	//'asset_base' => '/',
 
 	/**
 	 * The extension for theme view files.
