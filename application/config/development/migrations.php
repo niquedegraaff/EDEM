@@ -6,11 +6,14 @@ return array(
 		array(
 			'default' => 
 			array(
-				0 => '001_create_pages',
 			),
 		),
 		'module' => 
 		array(
+			'page' => 
+			array(
+				0 => '001_create_page',
+			),
 		),
 		'package' => 
 		array(
