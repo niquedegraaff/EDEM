@@ -1,0 +1,1 @@
+<p>FRONTEND::Page::index from theme!</p>
