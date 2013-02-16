@@ -1,5 +1,11 @@
 <?php
 
+// Frontend or backend
+if (isset($_SERVER['HTTP_HOST']))
+	define('SUBDOMAIN', (stristr($_SERVER['HTTP_HOST'],".",true)) == 'backend') ? 'backend' : 'frontend';
+else
+	define('SUBDOMAIN', 'frontend');
+
 // Load in the Autoloader
 require COREPATH.'classes'.DIRECTORY_SEPARATOR.'autoloader.php';
 class_alias('Fuel\\Core\\Autoloader', 'Autoloader');
